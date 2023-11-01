@@ -1,7 +1,7 @@
 import random 
 numguess = 0
 
-number = random.randint(1, 20) 
+number = random.randint(1, 50) 
 print('Guess a number between 1 and 50.')
 
 while numguess < 6:
